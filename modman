@@ -1,4 +1,2 @@
-app/code/local/Inchoo/Admintheme                      app/code/local/Inchoo/Admintheme                  
-app/code/local/Inchoo/Admintheme/etc/config.xml       app/code/local/Inchoo/Admintheme/etc/config.xml   
-app/code/local/Inchoo/Admintheme/etc/system.xml       app/code/local/Inchoo/Admintheme/etc/system.xml   
+app/code/local/Inchoo/Admintheme                      app/code/local/Inchoo/Admintheme
 app/etc/modules/Inchoo_Admintheme.xml                 app/etc/modules/Inchoo_Admintheme.xml             
